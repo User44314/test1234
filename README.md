@@ -3,3 +3,4 @@ test
 2dir
 
 3
+new text
